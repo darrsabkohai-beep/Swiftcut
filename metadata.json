@@ -1,0 +1,6 @@
+{
+  "name": "CapCut Studio",
+  "description": "Professional video editor with multi-track timeline, effects, filters, text animations, audio mixing, and 4K export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
